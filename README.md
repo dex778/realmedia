@@ -1,2 +1,2 @@
-# realmedia
-My first landing page as I learn to code along.
+# Starting landing page
+https://dex778.github.io/realmedia/
